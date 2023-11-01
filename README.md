@@ -41,7 +41,7 @@ Preprocessing the difference vectors with:
 cd preprocessing
 sh gen_diff_vec.sh
 ```
-
+The training code is based on [Manifold Mixup](https://github.com/vikasverma1077/manifold_mixup#manifold_mixup-icml-2019).   
 Running TextManiA on the CIFAR100-LT dataset with:
 ```bash
 python src/main.py --dataset cifar100-lt --data_dir data/cifar100/ --root_dir experiments/ --arch resnet18  --ibf 100 --learning_rate 0.2 --epochs 200 --schedule 50 100 150 --gammas 0.1 0.1 0.1 --train textmania 
