@@ -1,0 +1,11 @@
+﻿gigantic
+enormous
+huge
+large
+big
+normal
+medium
+small
+little
+tiny
+mini
