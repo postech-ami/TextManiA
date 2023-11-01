@@ -1,4 +1,5 @@
 # Manifold_mixup Supervised
+Our training code is based on [Manifold Mixup](https://github.com/vikasverma1077/manifold_mixup#manifold_mixup-icml-2019).  
 
 ### Requirements
 This code has been tested with  
