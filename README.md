@@ -6,7 +6,7 @@ Authors: [Moon Ye-Bin](https://sites.google.com/g.postech.edu/moon-ye-bin), [Jis
 This repository is official implementation for the ICCV 2023 paper, [TextManiA](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye-Bin_TextManiA_Enriching_Visual_Feature_by_Text-driven_Manifold_Augmentation_ICCV_2023_paper.pdf). 
 TextManiA augments the target visual feature by leveraging text embedding of the visually mimetic words (i.e., attributes), which are comprehensible and semantically rich. 
 <p align="center">
-  <img style="width: 100%" src="teaser_fig.png">
+  <img style="width: 80%" src="teaser_fig.png">
 </p>
 <br>
 
